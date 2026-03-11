@@ -322,4 +322,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author**: Arpit Shrivastava
 
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+**GitHub**: [github.com/arpit783]((https://github.com/arpit783))
