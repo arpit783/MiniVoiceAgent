@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+
+# Build outputs
+target/
+*.jar
+!pom.xml
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# Environment files (secrets)
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation (not needed in container)
+*.md
+!README.md
+
+# Test files
+src/test/
+
+# Shell scripts (not needed in container)
+*.sh
+
+# Misc
+dependency-reduced-pom.xml
